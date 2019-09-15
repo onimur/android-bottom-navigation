@@ -1,3 +1,15 @@
+/*
+ *
+ *  * Created by Murillo Comino on 15/09/19 14:17
+ *  * Github: github.com/MurilloComino
+ *  * StackOverFlow: pt.stackoverflow.com/users/128573
+ *  * Email: murillo_comino@hotmail.com
+ *  *
+ *  * Copyright (c) 2019 . All rights reserved.
+ *  * Last modified 15/09/19 11:56
+ *
+ */
+
 package com.onimus.bottomnavigation;
 
 import android.os.Bundle;
