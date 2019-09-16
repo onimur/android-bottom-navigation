@@ -31,7 +31,7 @@ gradlew installDebug
 ````
 
 ## Example
-![](https://github.com/MurilloComino/android-bottom-navigation/blob/master/resources/1.gif?raw=true)
+![](resources/1.gif)
 
 ## Built With
 
