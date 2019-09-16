@@ -1,4 +1,4 @@
-# BottomNavigation
+# Bottom Navigation
 
 This project contains a simple example of Bottom Navigation.
 
@@ -16,6 +16,19 @@ in URL put: https://github.com/MurilloComino/android-bottom-navigation.git
 
 and then clone
 ```
+
+## Installing
+* Connect via usb your android phone.
+* After cloning the project, open the terminal and navigate to the root folder.
+
+#### Windows
+````
+gradlew installDebug
+````
+#### Linux & MacOS
+````
+./gradlew installDebug
+````
 
 ## Example
 ![](https://github.com/MurilloComino/android-bottom-navigation/blob/master/resources/1.gif?raw=true)
