@@ -1,24 +1,25 @@
 /*
  *
- *  * Created by Murillo Comino on 15/09/19 14:17
+ *  * Created by Murillo Comino on 18/02/20 22:39
  *  * Github: github.com/MurilloComino
  *  * StackOverFlow: pt.stackoverflow.com/users/128573
  *  * Email: murillo_comino@hotmail.com
  *  *
- *  * Copyright (c) 2019 . All rights reserved.
- *  * Last modified 15/09/19 11:56
+ *  * Copyright (c) 2020 . All rights reserved.
+ *  * Last modified 18/02/20 22:37
  *
  */
 
 package com.onimus.bottomnavigation;
 
 import android.os.Bundle;
-import androidx.annotation.NonNull;
-import com.google.android.material.bottomnavigation.BottomNavigationView;
-
-import androidx.appcompat.app.AppCompatActivity;
 import android.view.MenuItem;
 import android.widget.TextView;
+
+import androidx.annotation.NonNull;
+import androidx.appcompat.app.AppCompatActivity;
+
+import com.google.android.material.bottomnavigation.BottomNavigationView;
 
 public class MainActivity extends AppCompatActivity {
 
